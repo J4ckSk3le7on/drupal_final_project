@@ -1,0 +1,4 @@
+name: drupal_final_project
+recipe: drupal10
+config:
+  webroot: .

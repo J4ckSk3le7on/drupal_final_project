@@ -828,3 +828,7 @@ $databases['default']['default'] = array (
   ],
 );
 $settings['config_sync_directory'] = 'sites/default/files/config_GEqKtUfj2KKA1znfALDXmPdEYOzoB9tqyV4y80rW1IBHcojM9gXR9k3OOh5F6sWHO1LElXh_-Q/sync';
+
+$settings['trusted_host_patterns'] = [
+  '^drupal_final_project\.lndo.site$',
+];
